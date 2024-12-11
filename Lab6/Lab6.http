@@ -1,0 +1,5 @@
+@Lab6_HostAddress = http://localhost:5041
+
+### Get all news
+GET {{Lab6_HostAddress}}/api/posts
+Accept: application/json
